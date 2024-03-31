@@ -28,7 +28,9 @@ export const FACTORY_ADDRESS_MAP: { [chainId: number]: string } = {
   // Celo
   42220: '0x79a530c8e2fA8748B7B40dd3629C0520c2cCf03f',
   // Blast Sepolia
-  168587773: '0xE63D69fFdB211dD747ad8970544043fADE7d20f5'
+  168587773: '0xE63D69fFdB211dD747ad8970544043fADE7d20f5',
+  // Blast
+  81457: '0xE27cb06A15230A7480d02956a3521E78C5bFD2D0'
 }
 
 export const INIT_CODE_HASH = '0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f'
@@ -38,6 +40,7 @@ export const INIT_CODE_HASHES: { [chainId: number]: string } = {
   [ChainId.SEPOLIA]: '0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f',
   [ChainId.GOERLI]: '0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f',
   [ChainId.BLAST_SEPOLIA]: '0xda571d86ad43edb30b030580c077ec40d48a0a4203fc3d13dc8ebda8e7b46c44',
+  [ChainId.BLAST]: '0xd1a99f7339108abbcc2eaa6478ee4a0394e2a63f04de08793721fb2f3eff5a38',
 };
 
 

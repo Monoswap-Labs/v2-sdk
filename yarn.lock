@@ -1438,10 +1438,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@monoswap-labs/sdk-core@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@monoswap-labs/sdk-core/-/sdk-core-3.0.0.tgz#e4b5d550f381e7df3a60646e8ca30827f0853d5c"
-  integrity sha512-6ZHDdPPcmcAOovM+RqogGurIWYqyG3zFckerZ3uulWnMNADmbXBQXL7tu5TTVv+/ylAL092unGRriX2XpiW/7Q==
+"@monoswap-labs/sdk-core@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@monoswap-labs/sdk-core/-/sdk-core-4.0.0.tgz#255522b6ea4b1a9e169a5c2ef6f4218d3ccf9f95"
+  integrity sha512-qxtGxjfyIoITyjPdJ7C3MrnToL1R0NpsFDG7lHj1DI7pMoFClxaXtFIo6Uy5zyZQWd0VH12meB8btfah3oagUg==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
